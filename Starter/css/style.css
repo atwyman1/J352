@@ -1,11 +1,11 @@
 body {
   background-color:#ffffff
 }
-h1 {color: #ff0000}
+h1 {color: #ff0000; fsont-family: "Archivo", sans-serif;}
 
-h2 {color: #F24BCD}
+h2 {color: #F24BCD; font-family: "Archivo", sans-serif;}
 
-p {color: #ff0000}
+p {color: #ff0000; font-family: "EB Garamond", serif;}
 
 .leadGraph {background-color: #000000; color: #ffffff;font-weight: bold; font-size: 2rem; 
 padding: 20px}
@@ -14,3 +14,36 @@ padding: 20px}
 
 a {color: #F24BCD; text-decoration: none}
 a:hover {color: #000000; text-decoration: underline}
+
+.headerBox {
+  background-color: #999999;
+  text-align: center;
+  padding: 20px;
+}
+
+.imageBox {
+  float: right;
+  padding: 25px 1px 25px 50px;
+}
+
+.bodyBox {
+  margin-left: 20px;
+}
+
+
+.archivo-<uniquifier> {
+  font-family: "Archivo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.eb-garamond-<uniquifier> {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
