@@ -1,0 +1,62 @@
+body {
+  background-color:#BDECF9
+}
+h1 {color: #000000; fsont-family: "Archivo", sans-serif; 
+  border: 2px solid black;
+  border-color: #0D1440;
+  padding: 40px;
+  margin: 20px;}
+
+
+p {color: #000000; font-family: "EB Garamond", serif; font-size: 18px}
+
+.leadPhoto {margin: 30px 40px 600px 40px}
+.secondPhoto {margin: 30px 40px 600px 40px}
+.thirdPhoto {margin: 30px 40px 600px 40px}
+
+a {color: #F24BCD; text-decoration: none; font-size: 18px}
+a:hover {color: #000000; text-decoration: underline}
+
+/* this is the styling for my header box (this is a comment tag) */
+
+.headerBox {
+  background-color: #025939;
+  text-align: center;
+  padding: 20px;
+}
+
+.imageBox {
+  float: right;
+  padding: 25px 1px 25px 50px;
+}
+
+.leadPhoto, .secondPhoto, .thirdPhoto {
+  display: block;
+  margin: 10px;
+}
+
+img {
+  border: 5px solid black
+}
+
+.bodyBox {
+  margin-left: 20px;
+}
+
+
+.archivo-<uniquifier> {
+  font-family: "Archivo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.eb-garamond-<uniquifier> {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
