@@ -1,0 +1,89 @@
+body {
+
+}
+
+/* Styling for h4 */
+h4{
+  font-weight: bold !important;
+  text-align: center !important;
+  margin: 10px !important;
+}
+/* Styling for h6 */
+h6 {
+  font-size: 10px !important;
+  padding: 0px !important;
+}
+/* Styling for h5 */
+h5 {
+  text-align: center !important;
+}
+
+/* This is styling for my headline text */
+.h1Style {
+  font-family: "Archivo", sans-serif;
+
+}
+
+/* This is styling for my main body text */
+.mainText {
+  padding: 10px 20px 20px 20px;
+  font-family: "Archivo", sans-serif
+}
+
+/* This is styling for my header box */
+.headerBox {
+  background-color: #FF6B50;
+  text-align: left;
+  padding: 10px;
+}
+
+/* This is styling for my main text grid box */
+.leadLeft {
+
+}
+
+/* This is styling for my side bar */
+.leadRight {
+  background-color: #6DAA90;
+
+}
+
+/* This is styling for my images*/
+.imageStyle {
+  width: 100%;
+  padding: 30px 0 0 0;
+}
+
+/* This is styling for my video */
+.video {
+  align: center;
+  margin: 20px 50px 50px 50px;
+}
+
+/* This is styling for my table source*/
+.tableSource {
+  padding: 4px;
+}
+/* This is styling for my footer */
+.footerStyle {
+  background-color: #FF6B50;
+  color: #fff;
+  padding: 12px;
+  height: 50px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* This is styling for my link text */
+a {color: #F24BCD; text-decoration: none;}
+a:hover {color: #000000; text-decoration: underline}
+
+/* This is styling for my font */
+.archivo-<uniquifier> {
+  font-family: "Archivo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
