@@ -1,0 +1,88 @@
+/* GLOBAL ARTICLE STYLES */
+
+body {
+	background-color: #CDD5C6;
+}
+
+p {
+	color: black;
+	font-family: "Source Serif 4", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h1 {
+	text-align: center;
+	font-family: "Anton SC", sans-serif;
+	font-size: 70px;
+	color: white;
+}
+
+hr {
+	border: 2px solid black;
+}
+
+h2 {
+	text-align: center;
+	font-family: "Original Surfer", sans-serif;
+	font-size: 150px;
+	color: white;
+}
+
+h5 {
+	text-align: center;
+	font-family: "Source Serif 4", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.img {
+	border: 4px solid black;
+}
+
+.containerOne {
+	margin-top: 15px;
+}
+
+.containerTwo {
+	margin-top: 15px;
+}
+
+.containerThree {
+	margin-top: 15px;
+}
+
+.bodytext {
+	text-align: center;
+}
+
+.footerText {
+	color: white;
+}
+
+.footerStyle {
+	background-color: #000;
+	color: #fff;
+	padding: 12px;
+	height: 50px;
+	text-align: center;
+	margin-top: 50px;
+}
+.rtt {
+	text-align: center;
+	margin-top: 50px;
+}
+.rtt a {
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+}
+.rtt a:hover {
+	color: #09639c;
+}
